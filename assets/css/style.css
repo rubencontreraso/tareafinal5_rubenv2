@@ -127,7 +127,7 @@ li{
 #mapa
 {
     float: right;
-    border: solid;
+    border: solid 20px;
     margin-right: 200px;
 }
 #grid_container{

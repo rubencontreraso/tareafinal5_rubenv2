@@ -115,7 +115,8 @@ li{
     padding-left: 0px;
 }
 #calendario h1,h2{
-    text-align: center;
+    text-align: right;
+    
 }
 #tab_01 th{
     font-style: italic;
